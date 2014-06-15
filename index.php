@@ -20,6 +20,7 @@
 		}
 		canvas{position: absolute; left: 50%; margin-left: -400px!important; -webkit-box-shadow: 1px 1px 5px 2px rgba(0,0,0,0.5);box-shadow: 1px 1px 5px 2px rgba(0,0,0,0.5);}
 	</style>
+	<!-- Dont do this kinda crap any more -->
 	this is another test to push my edits to a group
 </head>
 <body>
